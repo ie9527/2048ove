@@ -1,15 +1,12 @@
+# **电脑重装后需要安装的软件**
 
 
+## 基础软件
+### 输入法
 |名称|标签|描述|
 | -------------------------------------------| -----------| ------|
-|**[<p style=""><span style="color: #55ffff;">搜</span><span style="color: #61ffea;">狗</span><span style="color: #6dffd5;">输</span><span style="color: #78ffc0;">入</span><span style="color: #84ffab;">法</span></p>](https://pinyin.sogou.com/windows/)**|​`推广`​ `皮肤`​<br />||
+|**[搜狗输入法](https://pinyin.sogou.com/windows/)**|​`推广`​ `皮肤`​<br />||
 
 
 
-
-||||
-
-
-
-
-
+<font color=red>红色</font>
